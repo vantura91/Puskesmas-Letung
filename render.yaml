@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: puskesmas-letung
+    env: docker
+    plan: free
+    dockerfilePath: Dockerfile
+    autoDeploy: true
+    envVars:
+      - key: APP_ENV
+        value: production
+      - key: APP_KEY
+        generateValue: true
+      - key: DB_CONNECTION
+        value: mysql
+      # Tambahkan variabel lain jika pakai database, dsb.

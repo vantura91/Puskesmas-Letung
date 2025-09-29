@@ -198,7 +198,7 @@
 
         </section><!-- /Hero Section -->
 
-        <!-- About Section -->
+        <!-- Profil Section -->
         <section id="about" class="about section">
 
             <div class="container">
@@ -324,11 +324,12 @@
             <div class="container">
 
                 <div class="row gy-4">
+
                     <!-- Layanan Administrasi -->
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
-                                <i class="fas fa-heartbeat"></i>
+                                <i class="fas fa-file-alt"></i>
                             </div>
                             <!-- Trigger Modal -->
                             <a href="#" class="stretched-link" data-bs-toggle="modal"
@@ -375,7 +376,7 @@
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
-                                <i class="fas fa-heartbeat"></i>
+                                <i class="fas fa-stethoscope"></i>
                             </div>
                             <!-- Trigger Modal -->
                             <a href="#" class="stretched-link" data-bs-toggle="modal"
@@ -421,7 +422,7 @@
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
-                                <i class="fas fa-heartbeat"></i>
+                                <i class="fas fa-procedures"></i>
                             </div>
                             <!-- Trigger Modal -->
                             <a href="#" class="stretched-link" data-bs-toggle="modal"
@@ -466,7 +467,7 @@
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
-                                <i class="fas fa-heartbeat"></i>
+                                <i class="fas fa-tooth"></i>
                             </div>
                             <!-- Trigger Modal -->
                             <a href="#" class="stretched-link" data-bs-toggle="modal"
@@ -511,7 +512,7 @@
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
-                                <i class="fas fa-heartbeat"></i>
+                                <i class="fas fa-clinic-medical"></i>
                             </div>
                             <!-- Trigger Modal -->
                             <a href="#" class="stretched-link" data-bs-toggle="modal"
@@ -555,7 +556,7 @@
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
-                                <i class="fas fa-heartbeat"></i>
+                                <i class="fas fa-child"></i>
                             </div>
                             <!-- Trigger Modal -->
                             <a href="#" class="stretched-link" data-bs-toggle="modal"
@@ -602,7 +603,7 @@
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
-                                <i class="fas fa-heartbeat"></i>
+                                <i class="fas fa-flask"></i>
                             </div>
                             <!-- Trigger Modal -->
                             <a href="#" class="stretched-link" data-bs-toggle="modal"
@@ -644,7 +645,7 @@
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
-                                <i class="fas fa-heartbeat"></i>
+                                <i class="fas fa-head-side-virus"></i>
                             </div>
                             <!-- Trigger Modal -->
                             <a href="#" class="stretched-link" data-bs-toggle="modal"
@@ -689,7 +690,7 @@
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
-                                <i class="fas fa-heartbeat"></i>
+                                <i class="fas fa-ribbon"></i>
                             </div>
                             <!-- Trigger Modal -->
                             <a href="#" class="stretched-link" data-bs-toggle="modal"
@@ -735,7 +736,7 @@
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
-                                <i class="fas fa-heartbeat"></i>
+                                <i class="fas fa-hand-holding-heart"></i>
                             </div>
                             <!-- Trigger Modal -->
                             <a href="#" class="stretched-link" data-bs-toggle="modal"
@@ -780,7 +781,7 @@
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
-                                <i class="fas fa-heartbeat"></i>
+                                <i class="fas fa-venus-mars"></i>
                             </div>
                             <!-- Trigger Modal -->
                             <a href="#" class="stretched-link" data-bs-toggle="modal"
@@ -824,7 +825,7 @@
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
-                                <i class="fas fa-heartbeat"></i>
+                                <i class="fas fa-female"></i><i class="fas fa-baby"></i>
                             </div>
                             <!-- Trigger Modal -->
                             <a href="#" class="stretched-link" data-bs-toggle="modal"
@@ -870,7 +871,7 @@
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
-                                <i class="fas fa-heartbeat"></i>
+                                <i class="fas fa-blind"></i>
                             </div>
                             <!-- Trigger Modal -->
                             <a href="#" class="stretched-link" data-bs-toggle="modal"
@@ -908,7 +909,7 @@
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
-                                <i class="fas fa-heartbeat"></i>
+                                <i class="fas fa-headset"></i>
                             </div>
                             <!-- Trigger Modal -->
                             <a href="#" class="stretched-link" data-bs-toggle="modal"
@@ -947,7 +948,7 @@
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
-                                <i class="fas fa-heartbeat"></i>
+                                <i class="fas fa-file-medical"></i>
                             </div>
                             <!-- Trigger Modal -->
                             <a href="#" class="stretched-link" data-bs-toggle="modal"
@@ -985,7 +986,7 @@
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
-                                <i class="fas fa-heartbeat"></i>
+                                <i class="fas fa-pills"></i>
                             </div>
                             <!-- Trigger Modal -->
                             <a href="#" class="stretched-link" data-bs-toggle="modal"
@@ -1025,7 +1026,7 @@
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
-                                <i class="fas fa-heartbeat"></i>
+                                <i class="fas fa-utensils"></i>
                             </div>
                             <!-- Trigger Modal -->
                             <a href="#" class="stretched-link" data-bs-toggle="modal"
@@ -1064,7 +1065,7 @@
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
-                                <i class="fas fa-heartbeat"></i>
+                                <i class="fas fa-hospital"></i> <i class="fas fa-arrow-right"></i>
                             </div>
                             <!-- Trigger Modal -->
                             <a href="#" class="stretched-link" data-bs-toggle="modal"
@@ -1102,7 +1103,7 @@
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
-                                <i class="fas fa-heartbeat"></i>
+                                <i class="fas fa-lungs-virus"></i>
                             </div>
                             <!-- Trigger Modal -->
                             <a href="#" class="stretched-link" data-bs-toggle="modal"
@@ -1141,7 +1142,7 @@
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
-                                <i class="fas fa-heartbeat"></i>
+                                <i class="fas fa-user-nurse"></i>
                             </div>
                             <!-- Trigger Modal -->
                             <a href="#" class="stretched-link" data-bs-toggle="modal"
@@ -1180,6 +1181,63 @@
             </div>
 
         </section><!-- /Services Section -->
+
+        <!-- Aduan Section -->
+        <section id="about" class="about section">
+
+            <div class="container">
+
+                <div class="row gy-4 gx-5">
+
+                    <div class="col-lg-6 position-relative align-self-start" data-aos="fade-up" data-aos-delay="200">
+                        {{-- <embed src="assets/pdf/aduan.pdf" type="application/pdf" width="100%" height="500px" /> --}}
+                        <img src="assets/img/aduan.jpg" class="img-fluid" alt="" width="400">
+                        {{-- <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8"
+                            class="glightbox pulsating-play-btn"></a> --}}
+                    </div>
+
+                    <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
+                        <h3>Pengaduan</h3>
+                        <p>Pelayanan aduan masyarakat atau
+                            pasien. <br>
+                            Anda dapat mengunjungi beberapa link dibawah ini untuk melakukan pengaduan. <br>
+                            1. <a href="https://sippn.menpan.go.id/webcontrol/home" target="_blank">
+                                SISTEM PELAYANAN INFORMASI PUBLIK NASIONAL BLUD PUSKESMAS LETUNG
+                            </a>
+                        </p>
+                        {{-- <ul>
+                            <li>
+                                <i class="fa-solid fa-vial-circle-check"></i>
+                                <div>
+                                    <h5>Ullamco laboris nisi ut aliquip consequat</h5>
+                                    <p>Magni facilis facilis repellendus cum excepturi quaerat praesentium libre trade
+                                    </p>
+                                </div>
+                            </li>
+                            <li>
+                                <i class="fa-solid fa-pump-medical"></i>
+                                <div>
+                                    <h5>Magnam soluta odio exercitationem reprehenderi</h5>
+                                    <p>Quo totam dolorum at pariatur aut distinctio dolorum laudantium illo direna
+                                        pasata redi</p>
+                                </div>
+                            </li>
+                            <li>
+                                <i class="fa-solid fa-heart-circle-xmark"></i>
+                                <div>
+                                    <h5>Voluptatem et qui exercitationem</h5>
+                                    <p>Et velit et eos maiores est tempora et quos dolorem autem tempora incidunt maxime
+                                        veniam</p>
+                                </div>
+                            </li>
+                        </ul> --}}
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section><!-- /About Section -->
 
         <!-- Departments Section -->
         <section id="departments" class="departments section">

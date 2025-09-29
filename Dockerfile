@@ -32,12 +32,12 @@ COPY . .
 # Install dependencies Laravel
 RUN composer install --no-dev --optimize-autoloader
 
-# Set permission untuk Laravel
-RUN chown -R www-data:www-data storage bootstrap/cache \
-    && chmod -R 775 storage bootstrap/cache
+# Set permission
+RUN chown -R www-data:www-data storage bootstrap/cache && chmod -R 775 storage bootstrap/cache
 
-# Expose port 8000
-EXPOSE 10000
+# Expose port dari Render
+EXPOSE ${PORT}
 
-# Jalankan Laravel dengan built-in server
-CMD ["php", "artisan", "serve", "--host=0.0.0.0", "--port=${PORT}"]
+# Jalankan Laravel di port yang Render berikan
+CMD php artisan serve --host=0.0.0.0 --port=$PORT
+

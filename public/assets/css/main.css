@@ -265,6 +265,19 @@ h6 {
   .header .topbar .contact-info i span {
     font-size: 13px;
   }
+
+  .service-item p {
+    font-size: 10px !important;
+    /* lebih masuk akal dari 2px */
+    line-height: 1.4;
+  }
+
+  .services .service-item {
+    padding: 40px 15px !important;
+    /* kurangi padding untuk HP */
+    height: auto;
+    /* biarkan tinggi mengikuti konten */
+  }
 }
 
 .header .topbar .contact-info i a {

@@ -264,7 +264,7 @@
                 <div class="row gy-4">
 
                     <!-- Layanan Administrasi -->
-                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-file-alt"></i>
@@ -275,10 +275,10 @@
                                 <h3>Layanan Tata Usaha</h3>
                             </a>
                             <p>1. Pelayanan Surat Keterangan Sakit <br>
-                                2. Pelayanan Surat Keterangan <br>
-                                Kesehatan
-                                3. Pelayanan Surat Keterangan <br>
-                                Kehamilan
+                                2. Pelayanan Surat Keterangan
+                                Kesehatan <br>
+                                3. Pelayanan Surat Keterangan
+                                Kehamilan <br>
                                 4. Pelayanan Surat Pemeriksaan Calon Penganten <br>
                                 5. Surat Keterangan Kelahiran <br>
                                 6. Surat Keterangan kematian <br>
@@ -311,7 +311,7 @@
                     <!-- End -->
 
                     <!-- Layanan poli umum -->
-                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-stethoscope"></i>
@@ -357,7 +357,7 @@
                     <!-- End -->
 
                     <!-- Layanan Rawat Inap -->
-                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-procedures"></i>
@@ -402,7 +402,7 @@
                     <!-- End -->
 
                     <!-- Layanan Gigi Mulut -->
-                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-tooth"></i>
@@ -447,7 +447,7 @@
                     <!-- End -->
 
                     <!-- Layanan UGD -->
-                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-clinic-medical"></i>
@@ -491,7 +491,7 @@
                     <!-- End -->
 
                     <!-- Layanan balita -->
-                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-child"></i>
@@ -538,7 +538,7 @@
                     <!-- End -->
 
                     <!-- Layanan labor -->
-                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-flask"></i>
@@ -580,7 +580,7 @@
                     <!-- End -->
 
                     <!-- Layanan keswa -->
-                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-head-side-virus"></i>
@@ -625,7 +625,7 @@
                     <!-- End -->
 
                     <!-- Layanan iva -->
-                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-ribbon"></i>
@@ -671,7 +671,7 @@
                     <!-- End -->
 
                     <!-- Layanan konselor asi -->
-                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-hand-holding-heart"></i>
@@ -716,7 +716,7 @@
                     <!-- End -->
 
                     <!-- Layanan KB -->
-                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-venus-mars"></i>
@@ -760,7 +760,7 @@
                     <!-- End -->
 
                     <!-- Layanan kia -->
-                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-female"></i><i class="fas fa-baby"></i>
@@ -806,7 +806,7 @@
                     <!-- End -->
 
                     <!-- Layanan poli lansia -->
-                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-blind"></i>
@@ -844,7 +844,7 @@
                     <!-- End -->
 
                     <!-- Layanan aduan -->
-                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-headset"></i>
@@ -883,7 +883,7 @@
                     <!-- End -->
 
                     <!-- Layanan rekam medis -->
-                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-file-medical"></i>
@@ -921,7 +921,7 @@
                     <!-- End -->
 
                     <!-- Layanan Kefarmasian -->
-                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-pills"></i>
@@ -961,7 +961,7 @@
                     <!-- End -->
 
                     <!-- Layanan gizi -->
-                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-utensils"></i>
@@ -1000,7 +1000,7 @@
                     <!-- End -->
 
                     <!-- Layanan rujukan -->
-                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-hospital"></i> <i class="fas fa-arrow-right"></i>
@@ -1038,7 +1038,7 @@
                     <!-- End -->
 
                     <!-- Layanan poli tuberkolosis -->
-                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-lungs-virus"></i>
@@ -1077,7 +1077,7 @@
                     <!-- End -->
 
                     <!-- Layanan perkesmas -->
-                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-user-nurse"></i>

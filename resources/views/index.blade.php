@@ -45,16 +45,17 @@
 
         <div class="topbar d-flex align-items-center">
             <div class="container d-flex justify-content-center justify-content-md-between">
-                <div class="contact-info d-flex align-items-center">
-                    <i class="bi bi-envelope d-flex align-items-center"><a
-                            href="mailto:contact@example.com">contact@example.com</a></i>
-                    <i class="bi bi-phone d-flex align-items-center ms-4"><span>+1 5589 55488 55</span></i>
+                <div class="contact-info d-flex align-items-center" style="color:#ffffff;">
+                    Untuk info lebih lanjut anda bisa hubungi atau kunjungi media sosial kami
                 </div>
-                <div class="social-links d-none d-md-flex align-items-center">
-                    <a href="#" class="twitter"><i class="bi bi-twitter-x"></i></a>
-                    <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-                    <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-                    <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                <div class="social-links d-none d-md-flex align-items-center" style="color:#ffffff;">
+                    <i class="bi bi-phone d-flex align-items-center ms-4"><span>+62 813-6373-7900</span></i>
+                    <a href="https://www.facebook.com/Puskesmas_Letung" class="facebook" target="_blank">
+                        <i class="bi bi-facebook"></i>
+                    </a>
+                    <a href="https://www.instagram.com/puskesmas_letung" class="instagram" target="_blank">
+                        <i class="bi bi-instagram"></i>
+                    </a>
                 </div>
             </div>
         </div><!-- End Top Bar -->
@@ -73,28 +74,8 @@
                         <li><a href="#hero" class="active">Home<br></a></li>
                         <li><a href="#about">Profil</a></li>
                         <li><a href="#services">Layanan</a></li>
-                        <li><a href="#departments">Departments</a></li>
                         <li><a href="#doctors">Doctors</a></li>
-                        <li class="dropdown"><a href="#"><span>Dropdown</span> <i
-                                    class="bi bi-chevron-down toggle-dropdown"></i></a>
-                            <ul>
-                                <li><a href="#">Dropdown 1</a></li>
-                                <li class="dropdown"><a href="#"><span>Deep Dropdown</span> <i
-                                            class="bi bi-chevron-down toggle-dropdown"></i></a>
-                                    <ul>
-                                        <li><a href="#">Deep Dropdown 1</a></li>
-                                        <li><a href="#">Deep Dropdown 2</a></li>
-                                        <li><a href="#">Deep Dropdown 3</a></li>
-                                        <li><a href="#">Deep Dropdown 4</a></li>
-                                        <li><a href="#">Deep Dropdown 5</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="#">Dropdown 2</a></li>
-                                <li><a href="#">Dropdown 3</a></li>
-                                <li><a href="#">Dropdown 4</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#contact">Contact</a></li>
+
                     </ul>
                     <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
                 </nav>
@@ -112,21 +93,24 @@
         <!-- Hero Section -->
         <section id="hero" class="hero section light-background">
 
-            <img src="assets/img/hero-bg.jpg" alt="" data-aos="fade-in">
+            <img src="assets/img/gallery/image01.jpeg" alt="" data-aos="fade-in">
 
             <div class="container position-relative">
 
                 <div class="welcome position-relative" data-aos="fade-down" data-aos-delay="100">
-                    <h2>Web Puskemas Letung</h2>
+                    <h2 style="color: #0d6efd;">Web Puskesmas Letung</h2>
                 </div><!-- End Welcome -->
 
                 <div class="content row gy-4">
                     <div class="col-lg-4 d-flex align-items-stretch">
-                        <div class="why-box" data-aos="zoom-out" data-aos-delay="200">
-                            <h3>Jam Operasional</h3>
+                        <div class="why-box" data-aos="zoom-out" data-aos-delay="200"
+                            style="background-color: rgba(74, 24, 210, 0.2); padding:15px; border-radius:10px;">
+
+                            <h3 style="color: #000;">Jam Operasional</h3> <!-- judul jadi hitam -->
+
                             <div class="table-responsive">
-                                <table class="table table-bordered text-center align-middle">
-                                    <thead class="table-success">
+                                <table class="table table-trans table-bordered text-center align-middle">
+                                    <thead>
                                         <tr>
                                             <th>Hari</th>
                                             <th>Pendaftaran</th>
@@ -153,12 +137,16 @@
                                 </table>
                             </div>
 
-                            <div class="alert alert-success text-center mt-3" role="alert">
+                            <div class="alert text-center mt-3" role="alert"
+                                style="background-color: rgba(255, 255, 255, 0.50); border:1px solid rgba(25,135,84,0.25); color:#155724;">
                                 <strong>Minggu dan Tanggal Merah</strong><br>
                                 Persalinan dan UGD buka <span class="text-danger">24 Jam</span>
                             </div>
+
                         </div>
-                    </div><!-- End Why Box -->
+                    </div>
+
+                    <!-- End Why Box -->
 
                     <div class="col-lg-8 d-flex align-items-stretch">
                         <div class="d-flex flex-column justify-content-center">
@@ -1201,8 +1189,8 @@
                         <p>Pelayanan aduan masyarakat atau
                             pasien. <br>
                             Anda dapat mengunjungi beberapa link dibawah ini untuk melakukan pengaduan. <br>
-                            1. <a href="https://sippn.menpan.go.id/webcontrol/home" target="_blank">
-                                SISTEM PELAYANAN INFORMASI PUBLIK NASIONAL BLUD PUSKESMAS LETUNG
+                            <a href="http://sippn.menpan.go.id" target="_blank">
+                                1. SISTEM PELAYANAN INFORMASI PUBLIK NASIONAL BLUD PUSKESMAS LETUNG
                             </a>
                         </p>
                         {{-- <ul>

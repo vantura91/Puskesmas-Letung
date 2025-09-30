@@ -264,7 +264,7 @@
                 <div class="row gy-4">
 
                     <!-- Layanan Administrasi -->
-                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-4" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-file-alt"></i>
@@ -311,7 +311,7 @@
                     <!-- End -->
 
                     <!-- Layanan poli umum -->
-                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-4" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-stethoscope"></i>
@@ -357,7 +357,7 @@
                     <!-- End -->
 
                     <!-- Layanan Rawat Inap -->
-                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-4" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-procedures"></i>
@@ -402,7 +402,7 @@
                     <!-- End -->
 
                     <!-- Layanan Gigi Mulut -->
-                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-4" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-tooth"></i>
@@ -447,7 +447,7 @@
                     <!-- End -->
 
                     <!-- Layanan UGD -->
-                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-4" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-clinic-medical"></i>
@@ -491,7 +491,7 @@
                     <!-- End -->
 
                     <!-- Layanan balita -->
-                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-4" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-child"></i>
@@ -538,7 +538,7 @@
                     <!-- End -->
 
                     <!-- Layanan labor -->
-                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-4" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-flask"></i>
@@ -580,7 +580,7 @@
                     <!-- End -->
 
                     <!-- Layanan keswa -->
-                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-4" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-head-side-virus"></i>
@@ -625,7 +625,7 @@
                     <!-- End -->
 
                     <!-- Layanan iva -->
-                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-4" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-ribbon"></i>
@@ -671,7 +671,7 @@
                     <!-- End -->
 
                     <!-- Layanan konselor asi -->
-                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-4" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-hand-holding-heart"></i>
@@ -716,7 +716,7 @@
                     <!-- End -->
 
                     <!-- Layanan KB -->
-                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-4" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-venus-mars"></i>
@@ -760,7 +760,7 @@
                     <!-- End -->
 
                     <!-- Layanan kia -->
-                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-4" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-female"></i><i class="fas fa-baby"></i>
@@ -806,7 +806,7 @@
                     <!-- End -->
 
                     <!-- Layanan poli lansia -->
-                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-4" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-blind"></i>
@@ -843,47 +843,8 @@
                     </div>
                     <!-- End -->
 
-                    <!-- Layanan aduan -->
-                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
-                        <div class="service-item position-relative">
-                            <div class="icon">
-                                <i class="fas fa-headset"></i>
-                            </div>
-                            <!-- Trigger Modal -->
-                            <a href="#" class="stretched-link" data-bs-toggle="modal"
-                                data-bs-target="#aduanModal">
-                                <h3>Layanan Aduan</h3>
-                            </a>
-                            <p>Pelayanan aduan masyarakat atau
-                                pasien.</p>
-                        </div>
-                    </div>
-                    <div class="modal fade" id="aduanModal" tabindex="-1" aria-labelledby="layananModalLabel"
-                        aria-hidden="true">
-                        <div class="modal-dialog modal-lg modal-dialog-centered">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title" id="layananModalLabel">Layanan Aduan</h5>
-                                    <button type="button" class="btn-close" data-bs-dismiss="modal"
-                                        aria-label="Tutup"></button>
-                                </div>
-                                <div class="modal-body text-center">
-                                    <!-- Bisa gambar -->
-                                    {{-- <img src="{{ asset('assets/pdf/layanangigimulut.pdf') }}" class="img-fluid"
-                                        alt="Info Layanan"> --}}
-
-
-                                    <!-- Atau PDF -->
-                                    <embed src="assets/pdf/aduan.pdf" type="application/pdf" width="100%"
-                                        height="500px" />
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End -->
-
                     <!-- Layanan rekam medis -->
-                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-4" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-file-medical"></i>
@@ -921,7 +882,7 @@
                     <!-- End -->
 
                     <!-- Layanan Kefarmasian -->
-                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-4" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-pills"></i>
@@ -961,7 +922,7 @@
                     <!-- End -->
 
                     <!-- Layanan gizi -->
-                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-4" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-utensils"></i>
@@ -1000,7 +961,7 @@
                     <!-- End -->
 
                     <!-- Layanan rujukan -->
-                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-4" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-hospital"></i> <i class="fas fa-arrow-right"></i>
@@ -1038,7 +999,7 @@
                     <!-- End -->
 
                     <!-- Layanan poli tuberkolosis -->
-                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-4" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-lungs-virus"></i>
@@ -1077,7 +1038,7 @@
                     <!-- End -->
 
                     <!-- Layanan perkesmas -->
-                    <div class="col-lg-4 col-md-6 col-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 col-4" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-item position-relative">
                             <div class="icon">
                                 <i class="fas fa-user-nurse"></i>
@@ -1281,7 +1242,7 @@
 
                 <div class="row g-4">
 
-                    <div class="col-lg-3 col-md-4">
+                    <div class="col-lg-3 col-md-4 col-4">
                         <div class="gallery-item">
                             <a href="{{ asset('assets/img/gallery/bayi.jpeg') }}" class="glightbox"
                                 data-gallery="images-gallery">
@@ -1291,7 +1252,7 @@
                         </div>
                     </div><!-- End Gallery Item -->
 
-                    <div class="col-lg-3 col-md-4">
+                    <div class="col-lg-3 col-md-4 col-4">
                         <div class="gallery-item">
                             <a href="assets/img/gallery/bias.jpeg" class="glightbox" data-gallery="images-gallery">
                                 <img src="assets/img/gallery/bias.jpeg" alt="" class="img-fluid">
@@ -1299,7 +1260,7 @@
                         </div>
                     </div><!-- End Gallery Item -->
 
-                    <div class="col-lg-3 col-md-4">
+                    <div class="col-lg-3 col-md-4 col-4">
                         <div class="gallery-item">
                             <a href="assets/img/gallery/caraqiver.jpeg" class="glightbox"
                                 data-gallery="images-gallery">
@@ -1308,7 +1269,7 @@
                         </div>
                     </div><!-- End Gallery Item -->
 
-                    <div class="col-lg-3 col-md-4">
+                    <div class="col-lg-3 col-md-4 col-4">
                         <div class="gallery-item">
                             <a href="assets/img/gallery/ibubalita.jpeg" class="glightbox"
                                 data-gallery="images-gallery">
@@ -1317,7 +1278,7 @@
                         </div>
                     </div><!-- End Gallery Item -->
 
-                    <div class="col-lg-3 col-md-4">
+                    <div class="col-lg-3 col-md-4 col-4">
                         <div class="gallery-item">
                             <a href="assets/img/gallery/imunisasi.jpeg" class="glightbox"
                                 data-gallery="images-gallery">
@@ -1326,7 +1287,7 @@
                         </div>
                     </div><!-- End Gallery Item -->
 
-                    <div class="col-lg-3 col-md-4">
+                    <div class="col-lg-3 col-md-4 col-4">
                         <div class="gallery-item">
                             <a href="assets/img/gallery/kebugarananak.jpeg" class="glightbox"
                                 data-gallery="images-gallery">
@@ -1335,7 +1296,7 @@
                         </div>
                     </div><!-- End Gallery Item -->
 
-                    <div class="col-lg-3 col-md-4">
+                    <div class="col-lg-3 col-md-4 col-4">
                         <div class="gallery-item">
                             <a href="assets/img/gallery/ptm.jpeg" class="glightbox" data-gallery="images-gallery">
                                 <img src="assets/img/gallery/ptm.jpeg" alt="" class="img-fluid">
@@ -1343,7 +1304,7 @@
                         </div>
                     </div><!-- End Gallery Item -->
 
-                    <div class="col-lg-3 col-md-4">
+                    <div class="col-lg-3 col-md-4 col-4">
                         <div class="gallery-item">
                             <a href="assets/img/gallery/sikatgigi.jpeg" class="glightbox"
                                 data-gallery="images-gallery">

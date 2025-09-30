@@ -267,9 +267,12 @@ h6 {
   }
 
   .service-item p {
+    display: none;
+  }
+
+  .service-item h3 {
     font-size: 10px !important;
     /* lebih masuk akal dari 2px */
-    line-height: 1.4;
   }
 
   .services .service-item {

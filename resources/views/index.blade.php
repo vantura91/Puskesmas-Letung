@@ -1143,86 +1143,53 @@
 
             <!-- Section Title -->
             <div class="container section-title" data-aos="fade-up">
-                <h2>Doctors</h2>
-                <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+                <h2>Dokter</h2>
+                <p>Daftar Dokter yang bertugas di Puskesmas Jemaja</p>
             </div><!-- End Section Title -->
 
             <div class="container">
 
-                <div class="row gy-4">
+                <div class="row gy-4 justify-content-center">
 
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="team-member d-flex align-items-start">
-                            <div class="pic"><img src="assets/img/doctors/doctors-1.jpg" class="img-fluid"
+                            <div class="pic"><img src="assets/img/doctors/doktor01.jpeg" class="img-fluid"
                                     alt=""></div>
                             <div class="member-info">
-                                <h4>Walter White</h4>
-                                <span>Chief Medical Officer</span>
-                                <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
+                                <h4>dr. Rahmad wandi bastian simamora</h4>
+                                <span>Dokter Umum</span>
+                                <a href="mailto:wandisimamora.ws@gmail.com">
+                                    wandisimamora.ws@gmail.com
+                                </a>
                                 <div class="social">
-                                    <a href=""><i class="bi bi-twitter-x"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""> <i class="bi bi-linkedin"></i> </a>
+
+                                    <a href="https://www.facebook.com/share/15fBhD7hVt/" class="facebook"
+                                        target="_blank">
+                                        <i class="bi bi-facebook"></i>
+                                    </a>
+                                    <a href="https://www.instagram.com/wandi.simamora?igsh=N25vZWNhcnFrcmVl"
+                                        class="instagram" target="_blank">
+                                        <i class="bi bi-instagram"></i>
+                                    </a>
                                 </div>
                             </div>
                         </div>
-                    </div><!-- End Team Member -->
+                    </div>
 
-                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
+                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="team-member d-flex align-items-start">
-                            <div class="pic"><img src="assets/img/doctors/doctors-2.jpg" class="img-fluid"
+                            <div class="pic"><img src="assets/img/doctors/dokter02.png" class="img-fluid"
                                     alt=""></div>
                             <div class="member-info">
-                                <h4>Sarah Jhonson</h4>
-                                <span>Anesthesiologist</span>
-                                <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
-                                <div class="social">
-                                    <a href=""><i class="bi bi-twitter-x"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""> <i class="bi bi-linkedin"></i> </a>
-                                </div>
+                                <h4>dr. Anton France solanonda</h4>
+                                <span>Dokter Umum</span>
+                                <a href="mailto:dr.anton.anambas@gmail.com">
+                                    dr.anton.anambas@gmail.com
+                                </a>
                             </div>
                         </div>
-                    </div><!-- End Team Member -->
-
-                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
-                        <div class="team-member d-flex align-items-start">
-                            <div class="pic"><img src="assets/img/doctors/doctors-3.jpg" class="img-fluid"
-                                    alt=""></div>
-                            <div class="member-info">
-                                <h4>William Anderson</h4>
-                                <span>Cardiology</span>
-                                <p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>
-                                <div class="social">
-                                    <a href=""><i class="bi bi-twitter-x"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""> <i class="bi bi-linkedin"></i> </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!-- End Team Member -->
-
-                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
-                        <div class="team-member d-flex align-items-start">
-                            <div class="pic"><img src="assets/img/doctors/doctors-4.jpg" class="img-fluid"
-                                    alt=""></div>
-                            <div class="member-info">
-                                <h4>Amanda Jepson</h4>
-                                <span>Neurosurgeon</span>
-                                <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
-                                <div class="social">
-                                    <a href=""><i class="bi bi-twitter-x"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""> <i class="bi bi-linkedin"></i> </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!-- End Team Member -->
-
+                    </div>
+                    <!-- End Team Member -->
                 </div>
 
             </div>

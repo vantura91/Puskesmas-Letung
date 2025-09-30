@@ -45,9 +45,6 @@
 
         <div class="topbar d-flex align-items-center">
             <div class="container d-flex justify-content-center justify-content-md-between">
-                <div class="contact-info d-flex align-items-center" style="color:#ffffff;">
-                    Untuk info lebih lanjut anda bisa hubungi atau kunjungi media sosial kami
-                </div>
                 <div class="social-links d-none d-md-flex align-items-center" style="color:#ffffff;">
                     <i class="bi bi-phone d-flex align-items-center ms-4"><span>+62 813-6373-7900</span></i>
                     <a href="https://www.facebook.com/Puskesmas_Letung" class="facebook" target="_blank">

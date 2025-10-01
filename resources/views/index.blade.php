@@ -46,7 +46,7 @@
         <div class="topbar d-flex align-items-center">
             <div class="container d-flex justify-content-center justify-content-md-between">
                 <div class="social-links d-flex align-items-center" style="color:#ffffff;">
-                    <i class="bi bi-phone d-flex align-items-center ms-4"><span>+62 813-6373-7900</span></i>
+                    <i class="bi bi-phone d-flex align-items-center ms-4"><span>+62 823-8173-2526</span></i>
                     <a href="https://www.facebook.com/Puskesmas_Letung" class="facebook" target="_blank">
                         <i class="bi bi-facebook"></i>
                     </a>
@@ -1103,6 +1103,10 @@
                             <a href="http://sippn.menpan.go.id" target="_blank">
                                 1. SISTEM PELAYANAN INFORMASI PUBLIK NASIONAL BLUD PUSKESMAS LETUNG
                             </a>
+                            <a href="https://www.lapor.go.id/admin/laporan/kelola#waiting" target="_blank">
+                                2. Sistem Pengelolaan Pengaduan Pelayanan Publik Nasional – Layanan Aspirasi dan
+                                Pengaduan Online Rakyat (SP4N-LAPOR)
+                            </a>
                         </p>
                         {{-- <ul>
                             <li>
@@ -1292,7 +1296,6 @@
             <!-- Section Title -->
             <div class="container section-title" data-aos="fade-up">
                 <h2>Lokasi</h2>
-                <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
             </div><!-- End Section Title -->
 
             <div class="mb-5" data-aos="fade-up" data-aos-delay="200">

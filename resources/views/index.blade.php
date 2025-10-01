@@ -1102,7 +1102,7 @@
                             Anda dapat mengunjungi beberapa link dibawah ini untuk melakukan pengaduan. <br>
                             <a href="http://sippn.menpan.go.id" target="_blank">
                                 1. SISTEM PELAYANAN INFORMASI PUBLIK NASIONAL BLUD PUSKESMAS LETUNG
-                            </a>
+                            </a><br>
                             <a href="https://www.lapor.go.id/admin/laporan/kelola#waiting" target="_blank">
                                 2. Sistem Pengelolaan Pengaduan Pelayanan Publik Nasional – Layanan Aspirasi dan
                                 Pengaduan Online Rakyat (SP4N-LAPOR)
